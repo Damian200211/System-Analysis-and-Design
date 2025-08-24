@@ -2,7 +2,7 @@
 
 # DriverPass Project Overview
 
-The DriverPass project was focused on creating a system for a fictional company called DriverPass, which helps students prepare for and pass their driving tests. The client needed a comprehensive platform where students could study, book practice tests, and schedule driving lessons. The system needed to be user-friendly, efficient, and support both online learning and practical scheduling features.
+The DriverPass project was focused on creating a system for a company called DriverPass, which helps students prepare for and pass their driving tests. The client needed a comprehensive platform where students could study, book practice tests, and schedule driving lessons. The system needed to be user-friendly, efficient, and support both online learning and practical scheduling features.
 
 # Reflection
 
